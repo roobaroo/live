@@ -1428,7 +1428,7 @@ select.form-control {
 }
 
 /* Cursor glow effect */
-#cursor-glow {
+/*#cursor-glow {
   position: fixed;
   width: 300px;
   height: 300px;
@@ -1444,7 +1444,7 @@ select.form-control {
   transform: translate(-50%, -50%);
   transition: opacity var(--duration-normal) var(--ease-standard);
 }
-
+*/
 /* Base styles with background image */
 body {
   background: url("Background\ Image.png") center center/cover no-repeat fixed,
