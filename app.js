@@ -549,7 +549,7 @@ console.log('SHOWPAGE: Available pages:', Array.from(pages).map(p => p.id));
 
 function initializeCountdownTimer() {
 
-const targetDate = new Date('2025-10-03T10:00:00').getTime();
+const targetDate = new Date('2025-10-03T06:30:00Z').getTime();
 
 function updateCountdown() {
 
